@@ -1,0 +1,25 @@
+.forget{
+    width: 35%;
+    border: 5px solid rgb(207, 195, 195);
+    margin: auto auto;
+    height: 20rem;
+    margin-top: 8rem;
+}
+.forget b{
+    font-weight: 600;
+    margin-bottom: 4rem;
+}
+#text{
+    width:23rem ;
+   
+    border: 2px solid blue;
+    border-radius: 5px;
+    height: .5rem;
+    
+}
+.mytext{
+    margin-bottom: 2rem;
+}
+.btn{
+    margin-top: 1rem;
+}
